@@ -1,0 +1,29 @@
+table
+{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+}
+th, td
+{
+padding: 20px;
+}
+tr:nth-child(odd)
+{
+    background-color:#ddd ;
+}
+tr:hover
+{
+    background-color: #759ce3;
+    color: white;
+}
+li:hover
+{
+    text-align: center;
+    background-color: #070706;
+    color: rgb(255, 255, 255);
+}
+li
+{
+    color: white;
+}
